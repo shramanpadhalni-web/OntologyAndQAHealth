@@ -1,0 +1,26 @@
+SymptomID,PatientID,Symptom
+1,1,Fever
+2,1,Cough
+3,2,Headache
+4,2,Dizziness
+5,2,Blurred vision
+6,3,Shortness of breath
+7,3,Chest pain
+8,3,Fatigue
+9,4,Fever
+10,4,Sore throat
+11,5,Anxiety
+12,5,Insomnia
+13,6,Fever
+14,6,Cough
+15,7,Abdominal pain
+16,7,Nausea
+17,7,Vomiting
+18,8,Fatigue
+19,8,Weakness
+20,9,Back pain
+21,9,Joint pain
+22,10,Fever
+23,10,Cough
+24,10,Chest pain
+25,10,Headache

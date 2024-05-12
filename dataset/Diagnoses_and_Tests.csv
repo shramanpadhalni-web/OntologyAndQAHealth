@@ -1,0 +1,16 @@
+DiagnosisTestID,PatientID,Diagnosis,DiagnosticTest
+1,1,Pneumonia,Chest X-Ray
+2,2,Migraine,MRI of the brain
+3,3,Heart Disease,ECG
+4,4,Strep Throat,Throat swab
+5,5,General Anxiety Disorder,Psychological evaluation
+6,6,Respiratory Infection,Chest X-Ray
+7,7,Gastroenteritis,Abdominal ultrasound
+8,8,Chronic Fatigue Syndrome,Blood test
+9,9,Arthritis,Joint fluid test
+10,10,COVID-19,PCR test
+11,10,Influenza,Rapid flu test
+12,1,Pneumonia,Chest X-Ray
+13,3,Heart Disease,ECG
+14,5,General Anxiety Disorder,Psychological evaluation
+15,7,Gastroenteritis,Abdominal ultrasound

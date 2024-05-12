@@ -1,1 +1,11 @@
-
+PatientID,Name,Age,Gender
+1,John Doe,28,Male
+2,Jane Smith,34,Female
+3,Emily Taylor,45,Female
+4,Michael Brown,30,Male
+5,Sarah Davis,22,Female
+6,William Johnson,65,Male
+7,Jessica Miller,29,Female
+8,David Wilson,55,Male
+9,Laura Moore,40,Female
+10,James Thomas,48,Male
